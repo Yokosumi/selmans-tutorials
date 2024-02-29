@@ -1,4 +1,4 @@
-# how to use the voice dictation feature from VS Code
+# how to use the voice dictation feature from VS Code with Git Copilot
 
 About: 
 
